@@ -5,7 +5,7 @@
 ## ✨ About Me:
 🎯 I'm a passionate **Full Stack MERN Developer** with strong skills in building dynamic and scalable web applications.  
 💻 I also enjoy working with **Python, AWS, and DevOps tools** to design end-to-end solutions.  
-🚀 My journey includes **8 months of experience as an AWS Cloud Engineer**, and I am currently focusing on MERN + Python projects.  
+🚀 My journey includes **8 months of experience as an AWS Cloud Engineer**, and I am currently focusing on MERN.  
 🌱 I love solving problems, exploring new technologies, and collaborating on impactful projects.  
 
 ---
